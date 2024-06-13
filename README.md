@@ -14,8 +14,8 @@ Create and activate a virtual environment to manage your dependencies.
 
 # Set Up a Python Virtual Environment
 - Create and activate a virtual environment to manage your dependencies.
-python -m venv myenv
-source myenv/bin/activate  # On Windows use `myenv\Scripts\activate
+- python -m venv myenv
+source myenv/bin/activate
 
 # Install Required Libraries
 Install the necessary libraries using pip.
