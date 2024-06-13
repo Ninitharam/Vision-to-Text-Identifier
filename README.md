@@ -19,7 +19,7 @@ Open VS Code, create a new file named language_recognition.py, and add the follo
 
 ## Implement Language Detection for Images
 
--Enhance the Script to Handle Images
+- Enhance the Script to Handle Images
 Extend the language_recognition.py script to include image processing using OpenCV and Tesseract OCR.
--Verify the Output
+- Verify the Output
 Ensure that the script correctly identifies the language for both the sample text and the image containing text.
