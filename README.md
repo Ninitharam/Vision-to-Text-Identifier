@@ -20,4 +20,4 @@ Windows: Download the installer from Tesseract at UB Mannheim and follow the ins
 - Enhance the Script to Handle Images
 Extend the language_recognition.py script to include image processing using OpenCV and Tesseract OCR.
 - Verify the Output
-Ensure that the script correctly identifies the language for both the sample text and the image containing text.
+Ensure that the script correctly identifies the language for the image containing text.
