@@ -1,10 +1,10 @@
 # Vision-to-Text-Identifier
 # # Step  Set Up Your Environment
 - Install Visual Studio Code
-Download and install Visual Studio Code.
+Download and install [Visual Studio Code](https://code.visualstudio.com/)
 
 - Install Python
-Ensure you have Python installed on your machine. You can download it from python.org.
+Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
 - Set Up a Python Virtual Environment
 Create and activate a virtual environment to manage your dependencies.
