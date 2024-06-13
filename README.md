@@ -2,26 +2,14 @@
 # # Step  Set Up Your Environment
 - Download and install [Visual Studio Code](https://code.visualstudio.com/)
 
-- Install Python
-Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
-
-- Set Up a Python Virtual Environment
-Create and activate a virtual environment to manage your dependencies.
-
-Set Up a Python Virtual Environment
-Create and activate a virtual environment to manage your dependencies.
-
-# Set Up a Python Virtual Environment
-- Create and activate a virtual environment to manage your dependencies.
-- python -m venv myenv
-source myenv/bin/activate
+- Python Development Workload in Visual Studio: During the installation (or modification, if already installed) of Visual Studio, select the Python development workload. This includes the Python runtime and necessary tools to develop Python applications.
+- Python Interpreter: While the Python development workload in Visual Studio typically installs a Python interpreter, you can also use an existing installation of Python on your system.
 
 # Install Required Libraries
 Install the necessary libraries using pip.
 pip install opencv-python pytesseract langdetect
 
 # Install Tesseract OCR
-
 Windows: Download the installer from Tesseract at UB Mannheim and follow the installation instructions. Add Tesseract to your system PATH.
 - [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
 
