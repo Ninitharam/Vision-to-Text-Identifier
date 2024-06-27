@@ -1,7 +1,7 @@
 # Vision-to-Text-Identifier
 To extract text from images and identify its language,offering an efficient solution for multilingual text recognition.
 
-Focusing on Kannada and Marathi language currently.
+Focusing on Kannada and Marathi language currently.(IN PROGRESS)
 
 ## Set Up Your Environment
 - Download and install [Visual Studio Code](https://code.visualstudio.com/)
