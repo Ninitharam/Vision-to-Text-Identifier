@@ -17,6 +17,9 @@ pip install opencv-python pytesseract langdetect
 Windows: Download the installer from Tesseract at UB Mannheim and follow the installation instructions. Add Tesseract to your system PATH.
 - [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
 
+## Language Data Files
+Tesseract requires language data files to recognize text in different languages. These data files are available separately and can be downloaded from the [Tesseract Language](https://github.com/tesseract-ocr/tessdata) Data repository on GitHub.
+
 ## Implement Language Detection for Text
 Create a Python Script
 Open VS Code, create a new file named language_recognition.py, and [add the following code to detect the language of a given text](https://github.com/Ninitharam/Vision-to-Text-Identifier/blob/e1685a374aebc60410a1ab65321d720d4ea8e902/language_recognition.py#L9).
