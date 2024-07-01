@@ -14,13 +14,13 @@ and support multilingual communication across diverse fields.
 The motivation for this project stems from the practical and far-reaching applications of OCR
 (Optical Character Recognition) technology, aimed at addressing several key challenges and
 opportunities:
-• Efficient Information Retrieval: OCR technology enables the extraction of text from images,
+- Efficient Information Retrieval: OCR technology enables the extraction of text from images,
 allowing for efficient keyword searches, data mining, and content indexing. This capability is
 vital for quickly locating specific information within large volumes of unstructured data.
-• Multilingual Support: Images often contain text in multiple languages. By identifying the
+- Multilingual Support: Images often contain text in multiple languages. By identifying the
 language of the extracted text, we can facilitate accurate translation and comprehension,
 thus supporting cross-lingual information retrieval and promoting global communication.
-• Automation and Accuracy: Manual transcription of text from images is both time-
+- Automation and Accuracy: Manual transcription of text from images is both time-
 consuming and error-prone. OCR automates this process, significantly improving accuracy
 and reducing the labour required for data entry and analysis.
 
