@@ -2,6 +2,27 @@
 To extract text from images and identify its language,offering an efficient solution for multilingual text recognition using NLP and image processing.
 
 Focusing on Kannada and Marathi language currently.(IN PROGRESS)
+## Background
+In today's digital age, vast amounts of textual information are stored in image formats.
+Extracting and interpreting this text is essential for various applications, from data retrieval
+and accessibility to translation and content analysis. OCR (Optical Character Recognition)
+technology enables the conversion of image-based text into machine-readable formats,
+enhancing the usability and accessibility of digital content. By leveraging OCR and language
+identification techniques, we can automate text extraction, streamline information retrieval,
+and support multilingual communication across diverse fields.
+## Motivation
+The motivation for this project stems from the practical and far-reaching applications of OCR
+(Optical Character Recognition) technology, aimed at addressing several key challenges and
+opportunities:
+• Efficient Information Retrieval: OCR technology enables the extraction of text from images,
+allowing for efficient keyword searches, data mining, and content indexing. This capability is
+vital for quickly locating specific information within large volumes of unstructured data.
+• Multilingual Support: Images often contain text in multiple languages. By identifying the
+language of the extracted text, we can facilitate accurate translation and comprehension,
+thus supporting cross-lingual information retrieval and promoting global communication.
+• Automation and Accuracy: Manual transcription of text from images is both time-
+consuming and error-prone. OCR automates this process, significantly improving accuracy
+and reducing the labour required for data entry and analysis.
 
 ## Set Up Your Environment
 - Download and install [Visual Studio Code](https://code.visualstudio.com/)
