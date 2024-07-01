@@ -40,6 +40,7 @@ def detect_language_image(image_path):
         return str(e)
 
 if __name__ == "__main__":
+    # ENGLISH LANGUAGE
     sample_text = "This is an example text."
     print(f"Detected language (text): {detect_language_text(sample_text)}")
 
