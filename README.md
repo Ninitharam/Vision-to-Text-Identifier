@@ -1,4 +1,4 @@
-# Vision-to-Text-Identifier
+# Vision-to-Text-to-language-Identifier
 To extract text from images and identify its language,offering an efficient solution for multilingual text recognition using NLP and image processing.
 
 Focusing on Kannada and Marathi language currently.(IN PROGRESS)
